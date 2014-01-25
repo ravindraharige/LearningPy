@@ -1,0 +1,11 @@
+Part A:
+1. variables, printing
+2. functions
+3. controls - loops/switches/etc
+4. file IO
+5. list comprehension
+6. class/OO stuff
+
+Update:
+25/01: Part A.1) printVars.py, commandLineParams.py
+25/01: Part A.4) FileIO.py

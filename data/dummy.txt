@@ -1,0 +1,11 @@
+If I want to *emphasize* something, then I'd use stars to wrap
+around the words, *even if there were more than one*, *that's*
+what I'd do.  But I could also _underline_ words, so long as
+the darn thing was not a_variable_name, in which case I wouldn't
+want to lose the underscores in something which thought it was
+underlining.  Though we might want to _underline more than one word_
+in a sentence.  Especially if it is _The Title Of A Book_.
+For another kind of emphasis, let's go and #put something in bold#.
+   But it doesn't even need to be that simple. Something which is *really
+exciting* is coping with italics and similar things *spread across
+multiple lines*.
