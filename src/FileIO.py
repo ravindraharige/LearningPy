@@ -24,6 +24,19 @@ def readFileIntoString():
 
     print "content of file is: \n",data2
 
+def classicWriteFile():
+    data = "blah blah blah blah"
+    text_file = open("../data/Output.txt", "w")
+    text_file.write("@classicWriteFile data: %s"%data)
+    text_file.close()
+
+def writeFile():
+    data = "blah blah blah blah"
+    with open("../data/Output.txt", "w") as text_file:
+        text_file.write("@writeFile data: %s"%data)
+
 # readFileLineByLine()
 # readFileIntoList()
-readFileIntoString()
+# readFileIntoString()
+# classicWriteFile()
+writeFile()

@@ -5,7 +5,35 @@ Part A:
 4. file IO
 5. list comprehension
 6. class/OO stuff
+7. try, catch, exception
+
+Part B:
+1. using pickle, JSON data handling
+2. postgres db io
+3. collections, dictionaries, lists, queues
+4. multi threading
+http://pymotw.com/2/contents.html
+
+Part C:
+1. flask
+2. rest services - creating/consuming
+http://stackoverflow.com/questions/4355997/is-there-a-generic-python-library-to-consume-rest-based-services
+3. gevent stuff
+
+
+
+sub-todo:
+join function
+global keyword
+switch using lambada
 
 Update:
-25/01: Part A.1) printVars.py, commandLineParams.py
-25/01: Part A.4) FileIO.py
+25/01:
+Part A.1) printVars.py, commandLineParams.py
+Part A.4) FileIO.py
+
+27/01:
+Part A.7) done except:todo:user-defined exceptions (exceptions.py)
+Part A.3) controls.py
+Part A.2) functions.py
+Part B.3) lists todo:rest (collections.py)

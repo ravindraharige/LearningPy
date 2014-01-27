@@ -107,4 +107,3 @@ def ex12():
     print "So, you're %r old, %r tall and %r heavy." % (
         age, height, weight)
 
-ex12()
