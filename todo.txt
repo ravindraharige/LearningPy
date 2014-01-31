@@ -26,6 +26,10 @@ sub-todo:
 join function
 global keyword
 switch using lambada
+//learn py hard way
+unit-test
+setup setup
+basic web pkg for form inputs
 
 Update:
 25/01:
@@ -37,3 +41,7 @@ Part A.7) done except:todo:user-defined exceptions (exceptions.py)
 Part A.3) controls.py
 Part A.2) functions.py
 Part B.3) lists todo:rest (collections.py)
+
+31/01:
+Part A.6) OOPs.py, ex42.py, ex44.py
+new: pyIdioms.py
